@@ -3,7 +3,7 @@ title: Hydraloop
 description: Example test article that contains basic HTML elements for text formatting on the Web.
 date: 2020-11-14
 categories:
-  - "Tecnology"
+  - "Technology"
   - "Future"
 tags:
   - "Save Water"

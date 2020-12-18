@@ -3,7 +3,7 @@ title: Robomart
 description: Example test article that contains basic HTML elements for text formatting on the Web.
 date: 2020-11-30
 categories:
-  - "Tecnology"
+  - "Technology"
   - "Food"
   - "Grocery"
 tags:
